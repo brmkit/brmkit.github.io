@@ -32,7 +32,7 @@ If it's still not clear, I'm not a pro, that's why I consider myself a **wannabe
         </a>
         </h4>
     </li>
-{% elseif %}
+{% elsif %}
 {% for post in blog_posts limit:3 %}
     <li class="posts-list">
         <h4>
