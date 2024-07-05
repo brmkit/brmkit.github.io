@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/u/29227228?v=4">
 
-Hi folks, my name is Marco also known as **brmk**.
+Hi folks, I'm Marco, but you might know me as**brmk**.
 
 You'r right, it’s **_just another wannabe redteamer’s blog_**, nothing more.
 
@@ -55,15 +55,15 @@ If it's still not clear, I'm not a pro, that's why I consider myself a **wannabe
 ## training and certifications
 As a bit of background, I can share some of the certifications and training sessions I've attended over the years. This isn't a complete list, and I understand that certificates don't prove everything, but... _it's a bit of nerdy vanity_.
 
-Year | Cert or Training
+Year | What | Title
 -----|-------|--------
-2024 | Training | Empire Operations: Tactcs (Turla)
-2023 | Training | Advanced Tactics: Red Team Operations by SpecterOps
-2023 | Training | MalOpSec -> EDR: The Great Escape
-2023 | CRTO  | Certified Red Team Operator by ZeroPointSecurity
+2024 | Training | [Empire Operations: Tactcs (Turla)](https://bc-security.org/courses/empire-operations-tactics-turla)
+2023 | Training | [SpecterOps - Advanced Tactics: Red Team Operations](https://specterops.io/training/red-team-operations/)
+2023 | Training | [MalOpSec -> EDR: The Great Escape](https://milano.securitybsides.it/malopsec.html)
+2023 | CRTO  | Certified Red Team Operator
 2022 | eCPTXv2 | eLearnSecurity Certified Penetration Tester eXtreme v2
-2022 | CARTP | Certified Azure Red Team Professional by Altered Security
-2020 | CRTP | Certified Red Team Professional by Altered Security
+2022 | CARTP | Certified Azure Red Team Professional
+2020 | CRTP | Certified Red Team Professional
 2019 | eJPT | eLearnSecurity Certified Junior Penetration Tester
 
 
