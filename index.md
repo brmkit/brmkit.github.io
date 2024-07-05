@@ -22,7 +22,6 @@ If it's still not clear, I'm not a pro, that's why I consider myself a **wannabe
 
 ## recent posts
 <ul class="recent-posts">
-<ul class="recent-posts">
     {% assign blog_posts = site.posts | where: 'blog_post', true %}
     {% if blog_posts.size == 0 %}
         <li class="no-posts">
@@ -32,6 +31,7 @@ If it's still not clear, I'm not a pro, that's why I consider myself a **wannabe
                 </a>
             </h4>
         </li>
+        </ul>
     {% else %}
         {% for post in blog_posts limit:3 %}
             <li class="posts-list">
@@ -44,10 +44,9 @@ If it's still not clear, I'm not a pro, that's why I consider myself a **wannabe
                     </a>
                 </h4>
             </li>
+            {% if forloop.last %}</ul>{% endif %}
         {% endfor %}
     {% endif %}
-</ul>
-
 
 ## projects
 
