@@ -1,0 +1,26 @@
+# _config.yml
+
+title: "brmk"
+url: "https://brmkit.github.io"
+baseurl: "/"
+remote_theme: ankitsultana/researcher@gem
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Blog"
+   link: "/blog"
+ - name: "Contact"
+   link: "/contact"
