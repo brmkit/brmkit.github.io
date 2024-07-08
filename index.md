@@ -12,13 +12,13 @@ You'r right, it’s **_just another wannabe redteamer’s blog_**, nothing more.
 
 I’ve been passionate about the offensive field for years now, and it’s costing me synapses, time and patience.
 Every day I discover how many things i really don't know about this field and there’s so much out there to learn and share.
-So, here you can see/read the wonderful journey into offensive security and red teaming by a neverending student (or **a wannabe redteamer**), just like many others.
+So, here you can see/read the wonderful journey into offensive security and red teaming by a neverending student (or **just a wannabe redteamer**), like many others.
 
 I used to spend a lot of time trying to improve myself, hoping to become a better professional and maybe one day a real redteamer. _Who knows?_
 
 The aim of this blog/site it's simple, *trying to explain others what I'm learning, what I discover and what has helped me in this field*. Obviously not in my native language, because I really like to smash my head on something while i'm trying to be better in english.
 
-If it's still not clear, I'm not a pro, that's why I consider myself a **wannabe redteamer**.
+If it's still not clear, I'm not a pro and I don't want to feel as if I've made it, that's why I consider myself a **wannabe redteamer**.
 
 ## recent posts
 <ul class="recent-posts">
