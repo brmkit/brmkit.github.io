@@ -11,7 +11,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana/researcher"
-footer_text: "Theme **researcher** by Ankit Sultana"
+footer_text: "researcher by Ankit Sultana"
 
 sass:
     style: compressed
