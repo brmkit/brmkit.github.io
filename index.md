@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/u/29227228?v=4">
 
-Hi folks, I'm Marco, but you might know me as**brmk**.
+Hi folks, I'm Marco, but you might know me as **brmk**.
 
 You'r right, it’s **_just another wannabe redteamer’s blog_**, nothing more.
 

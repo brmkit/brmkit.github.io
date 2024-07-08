@@ -12,8 +12,6 @@ I'm always eager to learn and improve. If you'd like to discuss anything related
 
 ## Social
 
-0. [Email](#)
-1. [LinkedIn](#)
-2. [X/Twitter](#)
-3. [Discord](#)
-4. [Telegram](#)
+- [Email](mailto:brmkit@protonmail.com)
+- [Github](https://github.com/brmkit)
+- [X/Twitter](https://x.com/_brmkit)
