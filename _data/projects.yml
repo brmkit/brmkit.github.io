@@ -1,0 +1,3 @@
+- name: AD - Training Lab
+  url: https://github.com/brmkit/ad-training-lab
+  description: This project offers a simple method to deploy a vulnerable Active Directory environment on Proxmox, providing a practical platform for aspiring red teamers to hone their Active Directory skills and test C2 capabilities in a controlled environment.

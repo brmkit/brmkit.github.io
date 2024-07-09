@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Blog
+## blog
 
 <ul class="recent-posts">
     {% assign blog_posts = site.posts | where: 'blog_post', true %}
