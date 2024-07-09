@@ -50,7 +50,16 @@ If it's still not clear, I'm not a pro and I don't want to feel as if I've made 
 
 ## projects
 
-1. [AD - Training Lab](https://github.com/brmkit/ad-training-lab)
+<ul class="project-list">
+    {% assign projects = site.data.projects %}
+    {% for project in projects %}
+    <li class="project-item">
+        <div>
+            <a href="{{ project.url }}" class="project-link" target="_blank">{{ project.name }}</a>
+        </div>
+    </li>
+    {% if forloop.last %}</ul>{% endif %}
+    {% endfor %}
 
 ## training and certifications
 As a bit of background, I can share some of the certifications and training sessions I've attended over the years. This isn't a complete list, and I understand that certificates don't prove everything, but... _it's a bit of nerdy vanity_.
