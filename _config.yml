@@ -18,11 +18,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "about"
    link: "/"
- - name: "Blog"
+ - name: "blog"
    link: "/blog"
- - name: "Projects"
+ - name: "projects"
    link: "/projects"
- - name: "Contact"
+ - name: "contact"
    link: "/contact"
