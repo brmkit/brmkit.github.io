@@ -22,7 +22,7 @@ nav:
    link: "/"
  - name: "Blog"
    link: "/blog"
-- name; "Projects"
+ - name: "Projects"
    link: "/projects"
  - name: "Contact"
    link: "/contact"
