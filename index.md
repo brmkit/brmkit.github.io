@@ -61,11 +61,11 @@ If it's still not clear, I'm not a pro and I don't want to feel as if I've made 
     {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
 
-## training and certifications
-As a bit of background, I can share some of the certifications and training sessions I've attended over the years. This isn't a complete list, and I understand that certificates don't prove everything, but... _it's a bit of nerdy vanity_.
+As a bit of background, I can share some of the certifications and training sessions I've attended over the years. This isn't a comprehensive list, and I understand that certificates do not prove anything, but... _it's a bit of nerdy vanity_.
 
 Year | What | Title
 -----|-------|--------
+2024| GCIH | GIAC Certified Incident Handler + GIAC Advisory Board
 2024 | Training | [Empire Operations: Tactcs (Turla)](https://bc-security.org/courses/empire-operations-tactics-turla)
 2023 | Training | [SpecterOps - Advanced Tactics: Red Team Operations](https://specterops.io/training/red-team-operations/)
 2023 | Training | [MalOpSec -> EDR: The Great Escape](https://milano.securitybsides.it/malopsec.html)
