@@ -6,19 +6,15 @@ layout: default
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/u/29227228?v=4">
 
-Hi folks, I'm Marco, but you might know me as **brmk**.
+You'r right, it’s **_just another redteamer’s blog_**, nothing more.
 
-You'r right, it’s **_just another wannabe redteamer’s blog_**, nothing more.
+I’ve been passionate about **offensive security** for years, dedicating a lot of time and energy to stay ahead in this ever-evolving field. My main focus is on **adversary emulation** and **red teaming**, areas that are always pushing the limits and challenging me to grow. Every day, *I’m all about learning, testing, and refining my skills*.
 
-I’ve been passionate about the offensive field for years now, and it’s costing me synapses, time and patience.
-Every day I discover how many things i really don't know about this field and there’s so much out there to learn and share.
-So, here you can see/read the wonderful journey into offensive security and red teaming by a neverending student (or **just a wannabe redteamer**), like many others.
+To keep advancing, I use my personal *homelab* as my playground for security research. It’s where I keep my skills sharp and experiment with new tools and techniques, showcasing my genuine enthusiasm for this field.
 
-I used to spend a lot of time trying to improve myself, hoping to become a better professional and maybe one day a real redteamer. _Who knows?_
+The aim of this blog/site it's simple, *to share what I’m learning, discovering, and finding useful*. Obviously not in my native language, *because I really like to smash my head on something while i'm trying to be better in english.*
 
-The aim of this blog/site it's simple, *trying to explain others what I'm learning, what I discover and what has helped me in this field*. Obviously not in my native language, because I really like to smash my head on something while i'm trying to be better in english.
-
-If it's still not clear, I'm not a pro and I don't want to feel as if I've made it, that's why I consider myself a **wannabe redteamer**.
+I don’t see myself as an expert who has *“made it”*, but rather as someone on a journey: *always improving, always curious*.
 
 ## recent posts
 <ul class="recent-posts">
