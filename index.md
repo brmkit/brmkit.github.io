@@ -57,12 +57,12 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
     {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
 
-As a bit of background, I can share some of the certifications and training sessions I've attended over the years. This isn't a comprehensive list, and I understand that certificates do not prove anything, but... _it's a bit of nerdy vanity_.
+As a bit of background, I can share some of the certifications and training sessions I've attended over the years. This isn't a **comprehensive list**, and I understand that certificates do not prove anything, but... _it's a bit of nerdy vanity_.
 
 Year | What | Title
 -----|-------|--------
 2024| GCIH | GIAC Certified Incident Handler + GIAC Advisory Board
-2024 | Training | [Empire Operations: Tactcs (Turla)](https://bc-security.org/courses/empire-operations-tactics-turla)
+2024 | Training | [Empire Operations: Tactics (Turla)](https://training.bc-security.org/courses/empire-operations-turla)
 2023 | Training | [SpecterOps - Advanced Tactics: Red Team Operations](https://specterops.io/training/red-team-operations/)
 2023 | Training | [MalOpSec -> EDR: The Great Escape](https://milano.securitybsides.it/malopsec.html)
 2023 | CRTO  | Certified Red Team Operator
