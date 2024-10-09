@@ -1,3 +1,6 @@
 - name: AD - Training Lab
   url: https://github.com/brmkit/ad-training-lab
   description: This project offers a simple method to deploy a vulnerable Active Directory environment on Proxmox, providing a practical platform for aspiring red teamers to hone their Active Directory skills and test C2 capabilities in a controlled environment.
+- name: ghostway
+  url: https://github.com/brmkit/ghostway
+  description: A simple, minimalist and maybe silly way to implement a redirection infrastructure using some free services and a pretty basic OPSEC concept in mind.
