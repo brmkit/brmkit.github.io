@@ -25,7 +25,7 @@ So, this blog post talks about the ZeroTier VPN service and how to use it to be 
 ## hey packet, let's take a ride with my ZeroTier bus
 But, what is ZeroTier?
 
->*ZeroTier is a virtual networking platform that creates secure, private networks over the internet. It enables easy setup of virtual LANs, encrypts all network traffic, and provides centralized management.*
+>*ZeroTier is a virtual networking platform that creates secure, private networks over the internet. It enables easy setup of virtual LANs, encrypts all network traffic, and provides centralized management.* <sub>[docs](https://docs.zerotier.com/protocol)</sub>
 
 The main idea is to use a free, easy-to-use service to set up a cloud-based VPN without worrying about the technical details. This setup allows our redirectors to talk to each other securely, ensuring that data from one point to another hops smoothly, encrypted and... with some spice added.
 
