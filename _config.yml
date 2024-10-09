@@ -18,8 +18,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "about"
+ - name: "home"
    link: "/"
+ - name: "whoami"
+   link: "/whoami"
  - name: "blog"
    link: "/blog"
  - name: "projects"
