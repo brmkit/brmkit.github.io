@@ -4,11 +4,11 @@ layout: default
 tags: [red team, infrastructures, redirector, opsec]
 blog_post: true
 ---
-
+# ghostway project
 _how to use a free service to let your packet jump inside your redirector infrastructure... just a basic example on how to cover our tracks during engagements_
 
 Whether you're already an expert in red team tactics or you're just dipping your toes into the offensive family, understanding what is and how to implement redirectors is vital.
-### wtf is a redirector?
+## wtf is a redirector?
 They're servers that are geolocated away from us and whose sole purpose is to "redirect" traffic to our main infrastructure (the C2 servers).
 Redirector's infrastructure must be as scalable and automated as possible, regardless of how they're created. The only result we need to achieve is to protect the main attack infrastructure: the C2 server(s).
 
@@ -21,7 +21,7 @@ To be honest, i wrote this blog post because recently I had a strange idea: use 
 
 So, this blog post talks about the ZeroTier VPN service and how to use it to be able to implement some kind of redirection logic.
 
-### hey packet, let's take a ride with my ZeroTier bus
+## hey packet, let's take a ride with my ZeroTier bus
 But, what is ZeroTier?
 
 >*ZeroTier is a virtual networking platform that creates secure, private networks over the internet. It enables easy setup of virtual LANs, encrypts all network traffic, and provides centralized management.*
@@ -32,7 +32,7 @@ Think of ZeroTierVPN like setting up your own private version of the internet. I
 
 Nothing special, but worth a try in a simple redirectors configuration.
 
-### protocol explained: ZeroTier
+## protocol explained: ZeroTier
 ZeroTier's protocol is pretty simple to understand because it works basically in few steps.
 In order to explain this kind of functionality and how to "use" it we assume we have 2 endpoint in two different area in the world, endpoint A and endpoint B, that **must have public IP**.
 
@@ -51,7 +51,7 @@ If we stop that UDP message we can stop that perfectly optimized method for peer
 
 That's it, a redirector infrastructure with multiple jumps inside, where **we simply cannot define how many there are**.
 
-### just an example: ghostway
+## just an example: ghostway
 But now, let's talk about code.
 
 To show you how to implement ZeroTier as backbone for redirectors, I created a project called **ghostway** - and the name is definitely more interesting than the code itself. Basically it sets up three cloud VMs connected via ZeroTier, each acting as a redirector that securely forwards traffic down the chain explained earlier.
