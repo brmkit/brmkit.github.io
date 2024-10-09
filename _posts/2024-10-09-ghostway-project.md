@@ -4,6 +4,7 @@ layout: default
 tags: [red team, infrastructures, redirector, opsec]
 blog_post: true
 ---
+
 # ghostway project
 _how to use a free service to let your packet jump inside your redirector infrastructure... just a basic example on how to cover our tracks during engagements_
 
@@ -59,7 +60,7 @@ Terraform is used to quickly deploy the VMs, and Ansible performs configuration 
 
 Nothing too complicated, but it serves the purpose.
 
-[ghostway](https://github.com/brmkit/ghostway)
+[**Github - brmkit/ghostway**](https://github.com/brmkit/ghostway)
 
 This is just a simple, minimalist and **maybe silly way** to implement a redirection infrastructure using some free services and a pretty basic OPSEC concept in mind. There are many ways to do the same things, some well-known, some less so.
 It's up to you to choose your favorite cloud provider that let you use terraform but, keep in mind, in order to increase your jumps you can consider to use different cloud provider for each redirector, different regions, _block some IPs_... and so on :)
