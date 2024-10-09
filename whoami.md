@@ -27,7 +27,7 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
     {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
 
-<details open><summary><h2>nerdy vanity</h2></summary>
+## nerdy vanity
 As a bit of background, I can share some of the certifications and training sessions I've attended over the years. This isn't a **comprehensive list**, and I understand that certificates do not prove anything, but... _it's a bit of nerdy vanity_.
 
 Year | What | Title
@@ -43,7 +43,7 @@ Year | What | Title
 2019 | eJPT | eLearnSecurity Certified Junior Penetration Tester
 
 
-## activities
+### activities
 I also enjoy partecipating in Capture the Flag competitions and challenging myself in "_complex_" environment like:
 
 Year | Provider | Labs
@@ -51,4 +51,3 @@ Year | Provider | Labs
 2024 | [VulnLab - Labs](https://www.vulnlab.com/main/red-team-labs) | Wutai Master
 2023 | [HackTheBox - ProLabs](https://www.hackthebox.com/hacker/pro-labs) | Rastalabs - Red Team Operator I
 2021 | [HackTheBox - ProLabs](https://www.hackthebox.com/hacker/pro-labs) | Offshore - Penetration Tester II
-</details>
