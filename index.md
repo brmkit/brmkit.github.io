@@ -45,5 +45,5 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
 
 ---
 
->Is this another wannabe redteamer's blog with a bunch of technical articles, findings and some dark magic? 
+Is this another wannabe redteamer's blog with a bunch of technical articles, findings and some dark magic?
 >yes, otherwise I would probably delete it.
