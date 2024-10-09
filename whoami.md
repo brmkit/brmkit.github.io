@@ -43,7 +43,7 @@ Year | What | Title
 
 
 ## activities
-I also enjoy partecipating in Capture the Flag competitions and challenging myself in "_complex_" environment:
+I also enjoy partecipating in Capture the Flag competitions and challenging myself in "_complex_" environment like:
 
 Year | Provider | Labs
 -----|-------|--------
