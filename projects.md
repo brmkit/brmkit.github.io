@@ -13,5 +13,6 @@ layout: default
         </div>
         <small>{{ project.description }}</small>
     </li>
+    <div style="margin-bottom: 15px;"></div>
     {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
