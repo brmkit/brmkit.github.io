@@ -49,11 +49,9 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
     {% assign projects = site.data.projects %}
     {% for project in projects %}
     <li class="project-item">
-        <h4>
             <div>
             <a href="{{ project.url }}" class="project-link" target="_blank">{{ project.name }}</a>
             </div>
-        </h4>
         <small>{{ project.description }}</small>
     </li>
     {% if forloop.last %}</ul>{% endif %}
