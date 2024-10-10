@@ -20,11 +20,11 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
     {% assign blog_posts = site.posts | where: 'blog_post', true %}
     {% if blog_posts.size == 0 %}
         <li class="no-posts">
-            <h4>
+            <h3>
                 <a class="una" href="">
                     <span>coming soon!</span>
                 </a>
-            </h4>
+            </h3>
         </li>
         </ul>
     {% else %}
@@ -42,6 +42,22 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
             {% if forloop.last %}</ul>{% endif %}
         {% endfor %}
     {% endif %}
+
+## projects
+
+<ul class="project-list">
+    {% assign projects = site.data.projects %}
+    {% for project in projects %}
+    <li class="project-item">
+        <h4>
+            <div>
+            <a href="{{ project.url }}" class="project-link" target="_blank">{{ project.name }}</a>
+            </div>
+        </h4>
+        <small>{{ project.description }}</small>
+    </li>
+    {% if forloop.last %}</ul>{% endif %}
+    {% endfor %}
 
 ---
 

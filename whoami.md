@@ -14,19 +14,6 @@ The aim of this blog/site it's simple, *to share what I’m learning, discoverin
 
 I don’t see myself as an expert who has *“made it”*, but rather as someone on a journey: *always improving, always curious*.
 
-## projects
-
-<ul class="project-list">
-    {% assign projects = site.data.projects %}
-    {% for project in projects %}
-    <li class="project-item">
-        <div>
-            <a href="{{ project.url }}" class="project-link" target="_blank">{{ project.name }}</a>
-        </div>
-    </li>
-    {% if forloop.last %}</ul>{% endif %}
-    {% endfor %}
-
 ## nerdy vanity
 As a bit of background, I can share some of the certifications and training sessions I've attended over the years. This isn't a **comprehensive list**, and I understand that certificates do not prove anything, but... _it's a bit of nerdy vanity_.
 
