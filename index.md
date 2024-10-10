@@ -54,8 +54,3 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
     </li>
     {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
-
----
-
-Is this another wannabe redteamer's blog with a bunch of technical articles, findings and some dark magic?
->yes, otherwise I would probably delete it.
