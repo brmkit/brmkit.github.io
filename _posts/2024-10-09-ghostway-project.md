@@ -1,5 +1,5 @@
 ---
-title: brmk | ghostway project
+title: ghostway project
 layout: default
 tags: [red team, infrastructures, redirector, opsec]
 blog_post: true
