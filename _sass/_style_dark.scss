@@ -13,6 +13,8 @@ body {
     margin: 0;
     font-family: "Inconsolata";
     height: 100%;
+    background-color: rgb(31, 31, 31);
+    color: rgb(204,204,204);
 }
 a {
     text-decoration: none;
@@ -34,9 +36,9 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #272727;
     display: inline-block;
     font-weight: bold;
+
 }
 .navbar {
     padding: 50px 0 50px 0;
