@@ -11,6 +11,6 @@ I'm always eager to learn and improve. If you'd like to discuss anything related
 
 ---
 
-- [Email](mailto:brmkit@protonmail.com)
+- [Email](mailto:brmkit[at]protonmail.com)
 - [Github](https://github.com/brmkit)
 - [X/Twitter](https://x.com/_brmkit)
