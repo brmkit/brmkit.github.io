@@ -34,7 +34,7 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
                         <small><b>{{ post.date | date: "%Y-%m-%d" }}</b></small>
                         <a class="una" href="{{ site.baseurl }}{{ post.url }}"><span>{{ post.title }}</span></a>
                     </div>
-                <small>{{ posts.description }}</small>
+                <small>{{ page.description }}</small>
             </li>
             {% if forloop.last %}</ul>{% endif %}
         {% endfor %}
