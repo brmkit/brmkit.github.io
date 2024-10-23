@@ -30,12 +30,11 @@ I don’t see myself as an expert who has *“made it”*, but rather as someone
     {% else %}
         {% for post in blog_posts limit:3 %}
             <li class="posts-list">
-                    <div style="display: inline-block; width: 90px">
-                        <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+                    <div>
+                        <small><b>{{ post.date | date: "%Y-%m-%d" }}</b></small>
+                        <a class="una" href="{{ site.baseurl }}{{ post.url }}"><span>{{ post.title }}</span></a>
                     </div>
-                    <a class="una" href="{{ site.baseurl }}{{ post.url }}">
-                        <span>{{ post.title }}</span>
-                    </a>
+                <small>{{ posts.description }}</small>
             </li>
             {% if forloop.last %}</ul>{% endif %}
         {% endfor %}
