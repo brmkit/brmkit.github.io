@@ -57,6 +57,7 @@ That's it, a redirector infrastructure with multiple jumps inside, where **we si
 But now, let's talk about code.
 
 To show you how to implement ZeroTier as backbone for redirectors, I created a project called **ghostway** - and the name is definitely more interesting than the code itself. Basically it sets up three cloud VMs connected via ZeroTier, each acting as a redirector that securely forwards traffic down the chain explained earlier.
+
 Terraform is used to quickly deploy the VMs, and Ansible performs configuration management tasks to build the chain. Each redirector uses the ZeroTier IP to manage jumps through a basic nginx configuration.
 
 Nothing too complicated, but it serves the purpose.
@@ -64,6 +65,7 @@ Nothing too complicated, but it serves the purpose.
 [**Github - brmkit/ghostway**](https://github.com/brmkit/ghostway)
 
 This is just a simple, minimalist and **maybe silly way** to implement a redirection infrastructure using some free services and a pretty basic OPSEC concept in mind. There are many ways to do the same things, some well-known, some less so.
+
 It's up to you to choose your favorite cloud provider that let you use terraform but, keep in mind, in order to increase your jumps you can consider to use different cloud provider for each redirector, different regions, _block some IPs_... and so on :)
 
 If you want to discuss them feel free to contact me, I am always ready to discuss and learn from the awesome cybersec community!
