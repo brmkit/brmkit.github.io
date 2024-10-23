@@ -2,7 +2,7 @@
 title: ghostway project
 layout: default
 tags: [red team, infrastructures, redirector, opsec]
-description: _how to use a free service to let your packet jump inside your redirector infrastructure... just a basic example on how to cover our tracks during engagements_
+summary: _how to use a free service to let your packet jump inside your redirector infrastructure... just a basic example on how to cover our tracks during engagements_
 blog_post: true
 ---
 
